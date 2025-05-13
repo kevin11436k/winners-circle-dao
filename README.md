@@ -29,8 +29,9 @@ We exist to empower degens, dreamers, and builders who refuse to rug or fade. Wi
 ## 🚀 Quick Links
 
 - 🌐 Website: [winnerscircledao.com](https://winnerscircledao.com)
-- 🐦 Twitter: [@WinnersDAO](https://twitter.com) *(update once live)*
-- 💬 Telegram: [Join the Circle](https://t.me) *(update once live)*
+- 🐦 Twitter: [@WinnersDAO]([https://twitter.com](https://x.com/GodsTo364?t=mj5mPKY0SHul8Rln7rcEXg&s=09))*
+- 💬 Telegram: [Join the Circle](
+https://t.me/winnerscircledao) 
 
 ---
 
