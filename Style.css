@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #0b0f1a;
+  color: #fff;
+  line-height: 1.6;
+}
+
+header.hero {
+  background: linear-gradient(135deg, #1f2a45, #131b2e);
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  font-size: 1.2em;
+  color: #ccc;
+}
+
+.cta-buttons .btn {
+  margin: 10px;
+  padding: 12px 25px;
+  border: none;
+  border-radius: 30px;
+  background: #4ae3b5;
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.3s;
+}
+
+.cta-buttons .btn:hover {
+  background: #38c89e;
+}
+
+section {
+  padding: 60px 20px;
+  max-width: 900px;
+  margin: auto;
+}
+
+h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #4ae3b5;
+  padding-bottom: 10px;
+}
+
+.features ul, .roadmap ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.features li, .roadmap li {
+  padding: 10px 0;
+}
+
+.join {
+  text-align: center;
+}
+
+.btn.big {
+  padding: 14px 30px;
+  font-size: 1.1em;
+}
+
+footer {
+  background: #111623;
+  text-align: center;
+  padding: 20px;
+  font-size: 0.9em;
+  color: #888;
+}
